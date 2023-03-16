@@ -1,0 +1,15 @@
+/Users/Eliel/Desktop/Curso c# 1/ejercicio-2/bin/Debug/net5.0/ejercicio-2.deps.json
+/Users/Eliel/Desktop/Curso c# 1/ejercicio-2/bin/Debug/net5.0/ejercicio-2.runtimeconfig.json
+/Users/Eliel/Desktop/Curso c# 1/ejercicio-2/bin/Debug/net5.0/ejercicio-2.runtimeconfig.dev.json
+/Users/Eliel/Desktop/Curso c# 1/ejercicio-2/bin/Debug/net5.0/ejercicio-2.dll
+/Users/Eliel/Desktop/Curso c# 1/ejercicio-2/bin/Debug/net5.0/ref/ejercicio-2.dll
+/Users/Eliel/Desktop/Curso c# 1/ejercicio-2/bin/Debug/net5.0/ejercicio-2.pdb
+/Users/Eliel/Desktop/Curso c# 1/ejercicio-2/obj/Debug/net5.0/ejercicio-2.csproj.AssemblyReference.cache
+/Users/Eliel/Desktop/Curso c# 1/ejercicio-2/obj/Debug/net5.0/ejercicio-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Eliel/Desktop/Curso c# 1/ejercicio-2/obj/Debug/net5.0/ejercicio-2.AssemblyInfoInputs.cache
+/Users/Eliel/Desktop/Curso c# 1/ejercicio-2/obj/Debug/net5.0/ejercicio-2.AssemblyInfo.cs
+/Users/Eliel/Desktop/Curso c# 1/ejercicio-2/obj/Debug/net5.0/ejercicio-2.csproj.CoreCompileInputs.cache
+/Users/Eliel/Desktop/Curso c# 1/ejercicio-2/obj/Debug/net5.0/ejercicio-2.dll
+/Users/Eliel/Desktop/Curso c# 1/ejercicio-2/obj/Debug/net5.0/ref/ejercicio-2.dll
+/Users/Eliel/Desktop/Curso c# 1/ejercicio-2/obj/Debug/net5.0/ejercicio-2.pdb
+/Users/Eliel/Desktop/Curso c# 1/ejercicio-2/obj/Debug/net5.0/ejercicio-2.genruntimeconfig.cache

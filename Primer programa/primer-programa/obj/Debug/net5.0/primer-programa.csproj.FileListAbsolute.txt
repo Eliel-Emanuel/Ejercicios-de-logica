@@ -1,0 +1,15 @@
+/Users/Eliel/Desktop/Curso c# 1/primer-programa/bin/Debug/net5.0/primer-programa.deps.json
+/Users/Eliel/Desktop/Curso c# 1/primer-programa/bin/Debug/net5.0/primer-programa.runtimeconfig.json
+/Users/Eliel/Desktop/Curso c# 1/primer-programa/bin/Debug/net5.0/primer-programa.runtimeconfig.dev.json
+/Users/Eliel/Desktop/Curso c# 1/primer-programa/bin/Debug/net5.0/primer-programa.dll
+/Users/Eliel/Desktop/Curso c# 1/primer-programa/bin/Debug/net5.0/ref/primer-programa.dll
+/Users/Eliel/Desktop/Curso c# 1/primer-programa/bin/Debug/net5.0/primer-programa.pdb
+/Users/Eliel/Desktop/Curso c# 1/primer-programa/obj/Debug/net5.0/primer-programa.csproj.AssemblyReference.cache
+/Users/Eliel/Desktop/Curso c# 1/primer-programa/obj/Debug/net5.0/primer-programa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Eliel/Desktop/Curso c# 1/primer-programa/obj/Debug/net5.0/primer-programa.AssemblyInfoInputs.cache
+/Users/Eliel/Desktop/Curso c# 1/primer-programa/obj/Debug/net5.0/primer-programa.AssemblyInfo.cs
+/Users/Eliel/Desktop/Curso c# 1/primer-programa/obj/Debug/net5.0/primer-programa.csproj.CoreCompileInputs.cache
+/Users/Eliel/Desktop/Curso c# 1/primer-programa/obj/Debug/net5.0/primer-programa.dll
+/Users/Eliel/Desktop/Curso c# 1/primer-programa/obj/Debug/net5.0/ref/primer-programa.dll
+/Users/Eliel/Desktop/Curso c# 1/primer-programa/obj/Debug/net5.0/primer-programa.pdb
+/Users/Eliel/Desktop/Curso c# 1/primer-programa/obj/Debug/net5.0/primer-programa.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/Eliel/Desktop/Curso c# 1/ciclos++/ej2/obj/Debug/net5.0/ej2.csproj.AssemblyReference.cache
+/Users/Eliel/Desktop/Curso c# 1/ciclos++/ej2/obj/Debug/net5.0/ej2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Eliel/Desktop/Curso c# 1/ciclos++/ej2/obj/Debug/net5.0/ej2.AssemblyInfoInputs.cache
+/Users/Eliel/Desktop/Curso c# 1/ciclos++/ej2/obj/Debug/net5.0/ej2.AssemblyInfo.cs
+/Users/Eliel/Desktop/Curso c# 1/ciclos++/ej2/obj/Debug/net5.0/ej2.csproj.CoreCompileInputs.cache
+/Users/Eliel/Desktop/Curso c# 1/ciclos++/ej2/bin/Debug/net5.0/ej2.deps.json
+/Users/Eliel/Desktop/Curso c# 1/ciclos++/ej2/bin/Debug/net5.0/ej2.runtimeconfig.json
+/Users/Eliel/Desktop/Curso c# 1/ciclos++/ej2/bin/Debug/net5.0/ej2.runtimeconfig.dev.json
+/Users/Eliel/Desktop/Curso c# 1/ciclos++/ej2/bin/Debug/net5.0/ej2.dll
+/Users/Eliel/Desktop/Curso c# 1/ciclos++/ej2/bin/Debug/net5.0/ref/ej2.dll
+/Users/Eliel/Desktop/Curso c# 1/ciclos++/ej2/bin/Debug/net5.0/ej2.pdb
+/Users/Eliel/Desktop/Curso c# 1/ciclos++/ej2/obj/Debug/net5.0/ej2.dll
+/Users/Eliel/Desktop/Curso c# 1/ciclos++/ej2/obj/Debug/net5.0/ref/ej2.dll
+/Users/Eliel/Desktop/Curso c# 1/ciclos++/ej2/obj/Debug/net5.0/ej2.pdb
+/Users/Eliel/Desktop/Curso c# 1/ciclos++/ej2/obj/Debug/net5.0/ej2.genruntimeconfig.cache
